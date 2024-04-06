@@ -1,6 +1,8 @@
 Proiect Tehnici Web 
 Tema 1:
+
 cerințe generale minimale pentru partea 1 (HTML + CSS):
+
 fișiere separate pentru HTML și CSS
 conținutul site-ului trebuie să aibă sens (nu îl umpleți cu Lorem ipsum)
 nu este acceptată folosirea de frameworkuri și librării
