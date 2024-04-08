@@ -188,8 +188,8 @@ input[type="submit"]:hover {
 #table-of-contents {
     color: blue;
     position: absolute;
-    top: 100;
-    left: 50;
+    top: 100px;
+    left: 50px;
     text-decoration: overline underline;
 }
 
