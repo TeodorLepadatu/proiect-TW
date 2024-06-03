@@ -24,7 +24,10 @@ site-ul trebuie să conțină o tranziție care implică schimbarea mai multor p
 site-ul trebuie să conțină o animație care să modifice mai multe proprietăți ale aceluiași element
 ! bonus point ! pentru generarea conținutului folosind :after, :before (dar să aibă sens; fiți creativi)
 
+Tema 2:
+
 Cerințe generale minimale pentru partea 2 (JavaScript + Node.js misc):
+
 A. JavaScript
 
 fișier separat pentru codul JavaScript
@@ -41,6 +44,7 @@ schimbarea aleatoare a valorilor unei proprietăți (de exemplu: culoare, dimens
 folosirea proprietăților classList, target sau currentTarget
 folosirea metodelor getComputedStyle, stopPropagation
 validarea datelor dintr-un formular folosind expresii regulate
+
 B. AJAX & Node.js
 
 cereri get/post: preluare date dintr-un formular
