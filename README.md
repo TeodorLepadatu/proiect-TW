@@ -23,3 +23,27 @@ site-ul trebuie să conțină un menu drop-down (sau altfel expandabil) realizat
 site-ul trebuie să conțină o tranziție care implică schimbarea mai multor proprietăți la intervale diferite de timp
 site-ul trebuie să conțină o animație care să modifice mai multe proprietăți ale aceluiași element
 ! bonus point ! pentru generarea conținutului folosind :after, :before (dar să aibă sens; fiți creativi)
+
+Cerințe generale minimale pentru partea 2 (JavaScript + Node.js misc):
+A. JavaScript
+
+fișier separat pentru codul JavaScript
+modificarea stilului unui element sau al unui grup de elemente
+manipularea DOM-ului (selectare după id, tag, clasă, folosind selectori CSS)
+crearea și stergerea de elemente HTML
+folosirea și modificarea evenimentelor generate de mouse si tastatură
+modificare de proprietăți
+inputuri funcționale (de exemplu: input de tip text/range/number/radio/checkbox, select, textarea)
+folosirea setTimeout sau setInterval
+folosirea localStorage (să se pastreze în localStorage o colecție de elemente)
+folosirea a cel puțin unei metode din clasele: Math, Array, String, Date
+schimbarea aleatoare a valorilor unei proprietăți (de exemplu: culoare, dimensiuni, poziție)
+folosirea proprietăților classList, target sau currentTarget
+folosirea metodelor getComputedStyle, stopPropagation
+validarea datelor dintr-un formular folosind expresii regulate
+B. AJAX & Node.js
+
+cereri get/post: preluare date dintr-un formular
+cereri Ajax cu preluare date dintr-un fișier json
+sesiuni: login/logout (cu Node.js sau Storage)
+pagină pentru eroarea 404
